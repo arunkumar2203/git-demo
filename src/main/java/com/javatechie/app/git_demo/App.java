@@ -12,6 +12,10 @@ public class App
 			System.out.println("Welcome.......");
 		}
 	}
+	
+	public void addingMethodForBranch() {
+		System.out.println("Adding Method for Branch!!!!!!!!!!!!!");
+	}
 	public void addedMethod(){
 		System.out.println("Devloper 2");
 
